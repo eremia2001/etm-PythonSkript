@@ -1,0 +1,682 @@
+[
+    {
+        "PDS": "1666436",
+        "ANZ_S": "129",
+        "AUSPRAEGUNG": {
+            "E25010": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "23"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "54"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "52"
+                }
+            ],
+            "E25020": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "50"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "50"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "17"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "12"
+                }
+            ],
+            "E25030": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "126"
+                }
+            ],
+            "E25040": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "129"
+                }
+            ],
+            "E25050": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "127"
+                }
+            ],
+            "E25060": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "39"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "31"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "18"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "41"
+                }
+            ],
+            "E25070": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "52"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "29"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "24"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "24"
+                }
+            ],
+            "E25080": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "116"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "12"
+                }
+            ],
+            "E25090": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "103"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "6"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "19"
+                }
+            ],
+            "E25100": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "124"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "5"
+                }
+            ]
+        }
+    },
+    {
+        "PDS": "1666437",
+        "ANZ_S": "43",
+        "AUSPRAEGUNG": {
+            "E25010": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "3"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "40"
+                }
+            ],
+            "E25020": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "20"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "13"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "8"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "2"
+                }
+            ],
+            "E25030": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "5"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "3"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "34"
+                }
+            ],
+            "E25040": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "43"
+                }
+            ],
+            "E25050": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "5"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "18"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "8"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "12"
+                }
+            ],
+            "E25060": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "5"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "19"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "5"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "14"
+                }
+            ],
+            "E25070": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "31"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "11"
+                }
+            ],
+            "E25080": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "42"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "1"
+                }
+            ],
+            "E25090": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "43"
+                }
+            ],
+            "E25100": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "43"
+                }
+            ]
+        }
+    },
+    {
+        "PDS": "1666438",
+        "ANZ_S": "38",
+        "AUSPRAEGUNG": {
+            "E25010": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "6"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "31"
+                }
+            ],
+            "E25020": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "32"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "5"
+                }
+            ],
+            "E25030": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "8"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "12"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "17"
+                }
+            ],
+            "E25040": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "3"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "34"
+                }
+            ],
+            "E25050": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "2"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "4"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "32"
+                }
+            ],
+            "E25060": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "23"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "2"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "13"
+                }
+            ],
+            "E25070": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "12"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "2"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "24"
+                }
+            ],
+            "E25080": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "38"
+                }
+            ],
+            "E25090": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "2"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "1",
+                    "ANZ_UG": "1"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "3",
+                    "ANZ_UG": "12"
+                },
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "4",
+                    "ANZ_UG": "23"
+                }
+            ],
+            "E25100": [
+                {
+                    "KRIT_NR": "1204",
+                    "LL_UG_NR": "",
+                    "AUSPR2": "ETM_NR",
+                    "RTS_TYP1": "0",
+                    "ANZ_UG": "38"
+                }
+            ]
+        }
+    }
+]
